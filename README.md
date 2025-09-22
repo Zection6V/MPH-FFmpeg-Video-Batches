@@ -8,11 +8,10 @@
 **After**  
 <img width="1358" height="425" alt="image" src="https://github.com/user-attachments/assets/85a3a118-1b2a-4cec-b876-03ff6ca55157" />
 
-## Example: (Integer Scaling)
-[https://www.youtube.com/watch?v=hphuyyTWAZA](https://www.youtube.com/watch?v=hphuyyTWAZA)
+## Example: 
+- Integer Scaling: [https://www.youtube.com/watch?v=hphuyyTWAZA](https://www.youtube.com/watch?v=hphuyyTWAZA)
 
-## Example: (Lanczos Scaling)
-[https://www.youtube.com/watch?v=e-VjgkMY4Hs](https://www.youtube.com/watch?v=e-VjgkMY4Hs)
+- Lanczos Scaling:[https://www.youtube.com/watch?v=e-VjgkMY4Hs](https://www.youtube.com/watch?v=e-VjgkMY4Hs)
 
 ---
 
