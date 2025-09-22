@@ -53,7 +53,10 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
    - Copy the three files (`ffmpeg.exe`, `ffplay.exe`, `ffprobe.exe`) into the new `C:\ffmpeg` folder.  
 
    **実行ファイルを移動**  
-   - 先ほどの3つのファイルを `C:\ffmpeg` フォルダにコピーしてください。  
+   - 先ほどの3つのファイルを `C:\ffmpeg` フォルダにコピーしてください。
+
+   <img width="678" height="216" alt="image" src="https://github.com/user-attachments/assets/d95b098b-8f3e-4ab5-b39c-fd74533f5e82" />
+
 
 6. **Run the batch script**  
    - Now, simply drag and drop your video files onto the provided batch file.  
