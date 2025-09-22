@@ -14,7 +14,7 @@
 - **From original Nintendo DS resolution (256x192) → 8KHD**  
   [https://www.youtube.com/watch?v=GMCXcBl8_sk](https://www.youtube.com/watch?v=GMCXcBl8_sk)
 
-- **Even from MelonPrimeDS high-resolution screen → 8KHD**  
+- **Even from MelonPrimeDS high-resolution screen → 4KHD**  
   [https://www.youtube.com/watch?v=k_U3aPnXb4g](https://www.youtube.com/watch?v=k_U3aPnXb4g)
 
 ### Lanczos Scaling
