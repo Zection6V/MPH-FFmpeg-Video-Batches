@@ -106,7 +106,7 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 ## Usage Examples (English)
 
 ### 🎬 With Effects
-- Example: You have a **256x192 (DS resolution)** video as your raw material.  
+- Example: You have a video at **256x192 (DS resolution, for example)** as your raw material.  
 - First, upscale it to **HD resolution (e.g., 1080p)** using the batch script.  
 - Apply effects or editing to the HD video.  
 - Finally, convert the completed video to **8K (lossless recommended)**.  
@@ -115,7 +115,8 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 ---
 
 ### 🎬 Without Effects
-- Keep the source video at **256x192 (original resolution)** for the entire editing process.  
+- Example: You have a video at **256x192 (DS resolution, for example)** as your raw material.  
+- Keep it at the original resolution throughout the editing process.  
 - Export the edited video in a **lossless format (e.g., AVI)**.  
 - Then upscale the final output directly to **8K**.  
 ➡ This keeps editing lightweight and speeds up processing.  
@@ -131,7 +132,7 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 ## 使い方の例（日本語）
 
 ### 🎬 エフェクトを付ける場合
-- 例: 素材が **256x192 (DS解像度)** の動画である場合  
+- 例: 元素材が **256x192 (DS解像度の例)** の動画である場合  
 - まずバッチを使って **HD解像度 (例: 1080p)** にアップスケール  
 - HD動画にエフェクトや編集を加える  
 - 最後に完成した動画を **8K (ロスレス推奨)** に変換  
@@ -140,7 +141,8 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 ---
 
 ### 🎬 エフェクトを付けない場合
-- 元の動画を **256x192 (オリジナル解像度)** のまま編集  
+- 例: 元素材が **256x192 (DS解像度の例)** の動画である場合  
+- 元の解像度のまま編集を行う  
 - 編集後に **ロスレス形式 (例: AVI)** で出力  
 - 完成した動画を一気に **8K** にアップスケール  
 ➡ 編集が軽くなり、処理が高速化  
