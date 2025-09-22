@@ -99,3 +99,54 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 6. **バッチスクリプトを実行**  
    - 用意したバッチファイルに動画ファイルをドラッグ＆ドロップしてください。  
    - 引き延ばされた動画が元動画と同じフォルダに新たに生成されます。  
+
+
+---
+
+## Usage Examples (English)
+
+### 🎬 With Effects
+- Example: You have a **256x192 (DS resolution)** video as your raw material.  
+- First, upscale it to **HD resolution (e.g., 1080p)** using the batch script.  
+- Apply effects or editing to the HD video.  
+- Finally, convert the completed video to **8K (lossless recommended)**.  
+➡ This makes editing easier while still achieving a high-quality final output.  
+
+---
+
+### 🎬 Without Effects
+- Keep the source video at **256x192 (original resolution)** for the entire editing process.  
+- Export the edited video in a **lossless format (e.g., AVI)**.  
+- Then upscale the final output directly to **8K**.  
+➡ This keeps editing lightweight and speeds up processing.  
+
+---
+
+💡 **Tip**:  
+- If you want to apply **effects** → upscale to HD first, then edit.  
+- If you want to keep it **without effects** → edit at the original resolution and only upscale at the end.  
+
+---
+
+## 使い方の例（日本語）
+
+### 🎬 エフェクトを付ける場合
+- 例: 素材が **256x192 (DS解像度)** の動画である場合  
+- まずバッチを使って **HD解像度 (例: 1080p)** にアップスケール  
+- HD動画にエフェクトや編集を加える  
+- 最後に完成した動画を **8K (ロスレス推奨)** に変換  
+➡ 編集作業がやりやすくなり、高画質な最終出力を得られる  
+
+---
+
+### 🎬 エフェクトを付けない場合
+- 元の動画を **256x192 (オリジナル解像度)** のまま編集  
+- 編集後に **ロスレス形式 (例: AVI)** で出力  
+- 完成した動画を一気に **8K** にアップスケール  
+➡ 編集が軽くなり、処理が高速化  
+
+---
+
+💡 **Tip**:  
+- **エフェクトを付けたい場合** → 先にHDにアップスケールしてから編集。  
+- **エフェクトを付けない場合** → 元の解像度で編集して、最後に8Kにアップスケール。  
