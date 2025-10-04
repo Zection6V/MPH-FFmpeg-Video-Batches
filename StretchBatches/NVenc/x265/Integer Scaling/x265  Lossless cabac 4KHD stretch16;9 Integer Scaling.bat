@@ -13,7 +13,7 @@ rem Set the path of the output file (save in the same directory with "_4KHD_stre
 set outputFile=%~dpn1_4KHD_stretched.mp4
 
 rem Execute the FFmpeg command: Stretch to 4K HD (3840x2160) with 16:9 aspect ratio, using Nearest Neighbor (Point) sampling
-"%FFmpegPath%\ffmpeg" -i "%inputFile%" -vf "scale=3840:2160:flags=neighbor" -aspect "16:9" -c:v hevc_nvenc -preset lossless -coder cabac -c:a copy "%outputFile%"
+"%FFmpegPath%\ffmpeg" -i "%inputFile%" -vf "scale=3840:2160:flags=neighbor" -aspect "16:9" -c:v hevc_nvenc -tune lossless -coder cabac -c:a copy "%outputFile%"
 
 rem Move on to the next file
 shift

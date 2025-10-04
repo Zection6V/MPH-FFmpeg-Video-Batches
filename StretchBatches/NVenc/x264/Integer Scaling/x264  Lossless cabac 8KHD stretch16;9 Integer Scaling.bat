@@ -13,7 +13,7 @@ rem Set the path of the output file (save in the same directory with "_8KHD_stre
 set outputFile=%~dpn1_8KHD_stretched.mp4
 
 rem Execute the FFmpeg command: Stretch to 8K HD (7680x4320) with 16:9 aspect ratio, using Nearest Neighbor (Point) sampling
-"%FFmpegPath%\ffmpeg" -i "%inputFile%" -vf "scale=7680:4320:flags=neighbor" -aspect "16:9" -c:v h264_nvenc -preset lossless -coder cabac -c:a copy "%outputFile%"
+"%FFmpegPath%\ffmpeg" -i "%inputFile%" -vf "scale=7680:4320:flags=neighbor" -aspect "16:9" -c:v h264_nvenc -tune lossless -coder cabac -c:a copy "%outputFile%"
 
 rem Move on to the next file
 shift
