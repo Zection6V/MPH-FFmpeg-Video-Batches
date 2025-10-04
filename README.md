@@ -35,11 +35,11 @@ Drag and drop your videos onto the batch file, and a resized version will be gen
 
 1. **Download FFmpeg**  
    - Go to the official builds page:  
-     [https://github.com/BtbN/FFmpeg-Builds/wiki/Latest](https://github.com/BtbN/FFmpeg-Builds/wiki/Latest)  
-   - Click on **win64-gpl** to download the ZIP file.  
+     [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
+   - Click on **ffmpeg-git-full.7z** to download.  
 
 2. **Extract the ZIP file**  
-   - After downloading, extract the ZIP archive.  
+   - After downloading, extract the archive.  
    - Inside, you will find a folder named **bin**.  
 
 3. **Locate the required executables**  
@@ -74,11 +74,11 @@ FFmpegを利用して動画を拡大・引き伸ばすためのバッチスク�
 
 1. **FFmpeg をダウンロード**  
    - 公式ビルドページへアクセスしてください：  
-     [https://github.com/BtbN/FFmpeg-Builds/wiki/Latest](https://github.com/BtbN/FFmpeg-Builds/wiki/Latest)  
-   - **win64-gpl** をクリックして ZIP ファイルをダウンロードします。  
+     [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
+   - **ffmpeg-git-full.7z** をクリックしてファイルをダウンロードします。  
 
 2. **ZIPファイルを展開**  
-   - ダウンロード後、ZIPファイルを展開してください。  
+   - ダウンロード後、ファイルを展開してください。  
    - 中に **bin** フォルダがあります。  
 
 3. **必要な実行ファイルを確認**  
