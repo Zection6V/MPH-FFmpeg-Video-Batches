@@ -29,6 +29,8 @@
 A collection of batch scripts for scaling and stretching video files with FFmpeg.  
 Drag and drop your videos onto the batch file, and a resized version will be generated automatically.  
 
+⚠️ **Important**: Always make sure to back up your original video before running the batch script.  
+
 ---
 
 ### How to set up FFmpeg for the stretch batch script
@@ -67,6 +69,8 @@ Drag and drop your videos onto the batch file, and a resized version will be gen
 
 FFmpegを利用して動画を拡大・引き伸ばすためのバッチスクリプト集です。  
 動画ファイルをバッチファイルにドラッグ＆ドロップするだけで、自動的に指定解像度に変換されたバージョンが生成されます。  
+
+⚠️ **注意**: 必ず元動画のバックアップを取っておいてください。  
 
 ---
 
