@@ -29,7 +29,7 @@
 A collection of batch scripts for scaling and stretching video files with FFmpeg.  
 Drag and drop your videos onto the batch file, and a resized version will be generated automatically.  
 
-⚠️ **Important**: Always make sure to back up your original video before running the batch script.  
+⚠️ **Important**: Always make sure to back up your original video.  
 
 ---
 
